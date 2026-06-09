@@ -1,6 +1,6 @@
 # Hi, I'm Narmathaa Palanisamy 👋
 
-Biotechnology graduate with research experience in molecular and cellular biology, transitioning into computational biology and data science.
+Life science graduate with research experience in molecular and stem cell  biology, transitioning into computational biology and data science.
 
 ## Research Experience
 - CSIR-CCMB
