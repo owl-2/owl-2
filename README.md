@@ -24,13 +24,11 @@ Life science graduate with research experience in molecular and stem cell  biolo
 - Tableau
 
 ## Current Focus
-- Computational Biology
-- Biomarker Discovery
+- Computational Neuroscience
+- Neural circuits and Behaviour
 - Systems Biology
 - Neurodegenerative Disease Research
 
 ## Projects
-- Enzyme Kinetics Modeling (In Progress)
-- Drug Dose Response Modeling (Upcoming)
-- Neuroinformatics Projects (Upcoming)
+- Neural noise visual discrimination (In progress)
 
