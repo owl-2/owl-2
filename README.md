@@ -1,4 +1,4 @@
-# Hi, I'm Narmathaa Palanisamy 👋
+# Hi, I'm Narmathaa Palanisamy 
 
 Life science graduate with research experience in molecular and stem cell  biology, transitioning into computational biology and data science.
 
